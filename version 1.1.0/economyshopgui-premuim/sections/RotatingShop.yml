@@ -1,0 +1,56 @@
+# <--- https://wiki.gpplugins.com/economyshopgui/file-configuration/sections.yml#rotating-shops --->
+enable: true
+slot: 5
+title: '&d&lRadnom Item &8%page%/%pages%'
+fill-item:
+  material: GRAY_STAINED_GLASS_PANE
+  name: ' '
+nav-bar:
+  mode: SELF
+  fill-item:
+    material: "GRAY_STAINED_GLASS_PANE"
+    name: ' '
+  items:
+    GoBack:
+      material: NETHER_STAR
+      name: '%translations-back%'
+      action: BACK
+      slot: 5
+    NextPage:
+      material: ARROW
+      name: '%translations-next-page%'
+      action: PAGE_NEXT
+      slot: 9
+      paginated:
+        enabled: true
+    PrevPage:
+      material: ARROW
+      name: '%translations-previous-page%'
+      action: PAGE_BACK
+      slot: 1
+      paginated:
+        enabled: true
+item:
+  material: CLOCK
+  lore:
+  - '&6New items in &f%nextRotation%&6, be quick!'
+  displayname: '&d&lMagic shop'
+  name: '&d&lMagic shop'
+shop-type: ROTATING
+rotating-shop-settings:
+  interval: 1h
+  can-repeat: true
+  broadcast: true
+  pages:
+    page1:
+      gui-rows: 3
+      display-slots:
+      - 11
+      - 13
+      - 15
+    page2:
+      gui-rows: 3
+      display-slots:
+      - 11
+      - 13
+      - 15

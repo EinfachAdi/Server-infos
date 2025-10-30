@@ -1,0 +1,52 @@
+# AuctionHouse Configuration
+
+# Prefix for all plugin messages
+prefix: "&8[&6AuctionHouse&8] &r"
+
+# Web expansion settings
+web-expansion:
+  # Enable the web interface for AuctionHouse Plus
+  enabled: true
+  
+  # Message shown when web expansion is disabled but someone tries to use web commands
+  disabled-message: "&cWeb expansion is currently disabled on this server."
+
+# Discord webhook settings
+discord:
+  # Enable Discord integration
+  enabled: true
+  
+  # Channel ID for account linking commands ( !auctionhouselink is the command )
+  linking-channel-id: "1422654754638659594"
+  
+  # Channel ID for live auction updates ( for live auction updates -> AND transaction logs for people buying etc )
+  auction-channel-id: "1422654754638659594"
+  
+  # Bot token for interactive features (required for buttons and updates)
+  bot-token: ""
+  
+  # Update interval for auction listings in minutes
+  auction-update-interval: 1
+  
+  # Maximum items to show per auction embed
+  max-items-per-embed: 10
+
+# Economy settings
+currency-symbol: "$"
+enable-tax: true
+tax-rate: 0.05
+
+# Default listing settings (fallback if no rank limit is found)
+listing-duration-hours: 48
+max-listings-per-player: 18
+
+# Rank-based auction limits
+rank-limits:
+  default: 30      # Default group
+  member: 30       # Member group
+  vip: 5          # VIP group
+  premium: 8      # Premium group  
+  legend: 12      # Legend group
+  hero: 15        # Hero group
+  titan: 20       # Titan group
+  admin: 50       # Admin group

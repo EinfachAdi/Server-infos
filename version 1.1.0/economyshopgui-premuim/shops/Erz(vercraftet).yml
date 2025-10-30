@@ -1,0 +1,95 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: Iron_Ingot
+        buy: 5.52
+        sell: 1.88
+      '2':
+        material: Iron_nugget
+        buy: 0.61
+        sell: -1
+      '3':
+        material: Iron_Sword
+        buy: 11
+        sell: -1
+      '4':
+        material: Iron_shovel
+        buy: 6
+        sell: -1
+      '5':
+        material: Iron_pickaxe
+        buy: 17
+        sell: -1
+      '6':
+        material: Iron_axe
+        buy: 17
+        sell: -1
+      '7':
+        material: Iron_hoe
+        buy: 11
+        sell: -1
+      '8':
+        material: Iron_boots
+        buy: 27.5
+        sell: -1
+      '9':
+        material: Iron_leggings
+        buy: 38.5
+        sell: -1
+      '10':
+        material: Iron_chestplate
+        buy: 44
+        sell: -1
+      '11':
+        material: Iron_helmet
+        buy: 27.5
+        sell: -1
+      '12':
+        material: Iron_block
+        buy: 49.5
+        sell: -1
+      '13':
+        material: cauldron
+        buy: 38.5
+        sell: -1
+      '14':
+        material: hopper
+        buy: 29
+        sell: -1
+      '15':
+        material: Iron_bars
+        buy: 2
+        sell: -1
+      '16':
+        material: minecart
+        buy: 27.5
+        sell: -1
+      '17':
+        material: rail
+        buy: 35
+        sell: -1
+      '18':
+        material: chain
+        buy: 6
+        sell: -1
+      '19':
+        material: heavy_weighted_pressure_plate
+        buy: 10
+        sell: -1
+      '20':
+        material: iron_door
+        buy: 35
+        sell: -1
+      '21':
+        material: iron_trapdoor
+        buy: 22
+        sell: -1
+      '22':
+        material: water_bucket
+        buy: 16.5
+        sell: -1
+      '23':
+        material: shield
+        buy: 7
+        sell: -1

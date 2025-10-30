@@ -1,0 +1,1869 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: netherite_helmet
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: silence     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 1
+      '2':
+        material: netherite_chestplate
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: silence     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 2
+      '3':
+        material: netherite_leggings
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: silence     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 3
+      '4':
+        material: netherite_boots
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: silence     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 4
+      '5':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: ward     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 10
+      '6':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: ward     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 11
+      '7':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: ward     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 12
+      '8':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: ward     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 13
+      '9':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: snout     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 19
+      '10':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: snout     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 20
+      '11':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: snout     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 21
+      '12':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: snout     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 22
+      '13':
+        material: netherite_helmet
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: vex     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 28
+      '14':
+        material: netherite_chestplate
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: vex     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 29
+      '15':
+        material: netherite_leggings
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: vex     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 30
+      '16':
+        material: netherite_boots
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: vex     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 31
+      '17':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: dune     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 37
+      '18':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: dune     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 38
+      '19':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: dune     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 39
+      '20':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: dune     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 40
+      '21':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: flow     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 9
+      '22':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: flow     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 8
+      '23':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: flow     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 7
+      '24':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: flow     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 6
+      '25':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: raiser     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 18
+      '26':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: raiser    # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 17
+      '27':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: raiser     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 16
+      '28':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: raiser     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 15
+      '29':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: wayfinder     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 27
+      '30':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: wayfinder    # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 26
+      '31':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: wayfinder     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 25
+      '32':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: wayfinder     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 24
+      '33':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: rib     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 36
+      '34':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: rib    # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 35
+      '35':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: rib     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 34
+      '36':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: rib     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 33
+      '37':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: tide     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 45
+      '38':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: tide    # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 44
+      '39':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: tide     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 43
+      '40':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: tide     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 42
+      '41':
+        material: armor_stand
+        buy: -1
+        sell: -1
+        slot: 5
+      '42':
+        material: armor_stand
+        buy: -1
+        sell: -1
+        slot: 14
+      '43':
+        material: armor_stand
+        buy: -1
+        sell: -1
+        sot: 23
+      '44':
+        material: armor_stand
+        buy: -1
+        sell: -1
+        slot: 32
+      '45':
+        material: armor_stand
+        buy: -1
+        sell: -1
+        slot: 41
+  page2:
+    items:
+      '46':
+        material: netherite_helmet
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: silence     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 1
+      '47':
+        material: netherite_chestplate
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: silence     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 2
+      '48':
+        material: netherite_leggings
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: silence     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 3
+      '49':
+        material: netherite_boots
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: silence     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 4
+      '50':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: ward     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 10
+      '51':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: ward     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 11
+      '52':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: ward     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 12
+      '53':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: ward     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 13
+      '54':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: snout     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 19
+      '55':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: snout     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 20
+      '56':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: snout     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 21
+      '57':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: snout     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 22
+      '58':
+        material: netherite_helmet
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: vex     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 28
+      '59':
+        material: netherite_chestplate
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: vex     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 29
+      '60':
+        material: netherite_leggings
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: vex     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 30
+      '61':
+        material: netherite_boots
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: vex     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 31
+      '62':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: dune     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 37
+      '63':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: dune     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 38
+      '64':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: dune     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 39
+      '65':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: dune     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 40
+      '66':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: flow     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 9
+      '67':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: flow     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 8
+      '68':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: flow     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 7
+      '69':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: flow     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 6
+      '70':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: raiser     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 18
+      '71':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: raiser    # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 17
+      '72':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: raiser     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 16
+      '73':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: raiser     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 15
+      '74':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: wayfinder     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 27
+      '75':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: wayfinder    # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 26
+      '76':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: wayfinder     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 25
+      '77':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: wayfinder     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 24
+      '78':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: rib     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 36
+      '79':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: rib    # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 35
+      '80':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: rib     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 34
+      '81':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: rib     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 33
+      '82':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: tide     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 45
+      '83':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: tide    # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 44
+      '84':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: tide     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 43
+      '85':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: redstone        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: tide     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 42
+      '86':
+        material: armor_stand
+        buy: -1
+        sell: -1
+        slot: 5
+      '87':
+        material: armor_stand
+        buy: -1
+        sell: -1
+        slot: 14
+      '88':
+        material: armor_stand
+        buy: -1
+        sell: -1
+        sot: 23
+      '89':
+        material: armor_stand
+        buy: -1
+        sell: -1
+        slot: 32
+      '90':
+        material: armor_stand
+        buy: -1
+        sell: -1
+        slot: 41
+  page3:
+    items:
+      '46':
+        material: netherite_helmet
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: silence     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 1
+      '47':
+        material: netherite_chestplate
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: silence     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 2
+      '48':
+        material: netherite_leggings
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: silence     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 3
+      '49':
+        material: netherite_boots
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: silence     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 4
+      '50':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: ward     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 10
+      '51':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: ward     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 11
+      '52':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: ward     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 12
+      '53':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: ward     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 13
+      '54':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: snout     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 19
+      '55':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: snout     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 20
+      '56':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: snout     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 21
+      '57':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: snout     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 22
+      '58':
+        material: netherite_helmet
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: vex     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 28
+      '59':
+        material: netherite_chestplate
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: vex     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 29
+      '60':
+        material: netherite_leggings
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: vex     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 30
+      '61':
+        material: netherite_boots
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: vex     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 31
+      '62':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: dune     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 37
+      '63':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: dune     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 38
+      '64':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: dune     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 39
+      '65':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: dune     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 40
+      '66':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: flow     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 9
+      '67':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: flow     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 8
+      '68':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: flow     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 7
+      '69':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: flow     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 6
+      '70':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: raiser     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 18
+      '71':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: raiser    # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 17
+      '72':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: raiser     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 16
+      '73':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: raiser     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 15
+      '74':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: wayfinder     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 27
+      '75':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: wayfinder    # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 26
+      '76':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: wayfinder     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 25
+      '77':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: wayfinder     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 24
+      '78':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: rib     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 36
+      '79':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: rib    # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 35
+      '80':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: rib     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 34
+      '81':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: rib     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 33
+      '82':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: tide     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 45
+      '83':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: tide    # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 44
+      '84':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: tide     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 43
+      '85':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: emerald        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: tide     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 42
+      '86':
+        material: armor_stand
+        buy: -1
+        sell: -1
+        slot: 5
+      '87':
+        material: armor_stand
+        buy: -1
+        sell: -1
+        slot: 14
+      '88':
+        material: armor_stand
+        buy: -1
+        sell: -1
+        sot: 23
+      '89':
+        material: armor_stand
+        buy: -1
+        sell: -1
+        slot: 32
+      '90':
+        material: armor_stand
+        buy: -1
+        sell: -1
+        slot: 41
+  page4:
+    items:
+      '46':
+        material: netherite_helmet
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: silence     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 1
+      '47':
+        material: netherite_chestplate
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: silence     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 2
+      '48':
+        material: netherite_leggings
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: silence     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 3
+      '49':
+        material: netherite_boots
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: silence     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 4
+      '50':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: ward     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 10
+      '51':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: ward     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 11
+      '52':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: ward     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 12
+      '53':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: ward     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 13
+      '54':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: snout     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 19
+      '55':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: snout     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 20
+      '56':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: snout     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 21
+      '57':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: snout     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 22
+      '58':
+        material: netherite_helmet
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: vex     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 28
+      '59':
+        material: netherite_chestplate
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: vex     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 29
+      '60':
+        material: netherite_leggings
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: vex     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 30
+      '61':
+        material: netherite_boots
+        buy: 16000
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: vex     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 31
+      '62':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: dune     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 37
+      '63':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: dune     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 38
+      '64':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: dune     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 39
+      '65':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: dune     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 40
+      '66':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: flow     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 9
+      '67':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: flow     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 8
+      '68':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: flow     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 7
+      '69':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: flow     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 6
+      '70':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: raiser     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 18
+      '71':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: raiser    # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 17
+      '72':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: raiser     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 16
+      '73':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: raiser     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 15
+      '74':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: wayfinder     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 27
+      '75':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: wayfinder    # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 26
+      '76':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: wayfinder     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 25
+      '77':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: wayfinder     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 24
+      '78':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: rib     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 36
+      '79':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: rib    # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 35
+      '80':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: rib     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 34
+      '81':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: rib     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 33
+      '82':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: tide     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 45
+      '83':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: tide    # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 44
+      '84':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: tide     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 43
+      '85':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        armor-trim:
+          type: iron        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: tide     # Beispielmuster – siehe Liste unten
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+        slot: 42
+      '86':
+        material: armor_stand
+        buy: -1
+        sell: -1
+        slot: 5
+      '87':
+        material: armor_stand
+        buy: -1
+        sell: -1
+        slot: 14
+      '88':
+        material: armor_stand
+        buy: -1
+        sell: -1
+        sot: 23
+      '89':
+        material: armor_stand
+        buy: -1
+        sell: -1
+        slot: 32
+      '90':
+        material: armor_stand
+        buy: -1
+        sell: -1
+        slot: 41

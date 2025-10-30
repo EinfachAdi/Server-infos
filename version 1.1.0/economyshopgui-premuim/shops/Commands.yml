@@ -1,0 +1,126 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: paper
+        displayname: '&8&l/godmode.permission'
+        buy: 100000000
+        sell: -1
+        buy-commands:
+        - lp user %player% permission settemp essentials.god true 30m
+      '2':
+        material: paper
+        displayname: '&f&l/heal.permission'
+        buy: 10000000
+        sell: -1
+        buy-commands:
+        - lp user %player% permission settemp essentials.heal true 1h
+      '3':
+        material: paper
+        displayname: '&6&lBlitz?'
+        buy: 1000
+        sell: -1
+        buy-commands:
+        - execute if entity %player% at %player% run summon lightning_bolt
+        - execute if entity %player% at %player% run summon lightning_bolt
+        - execute if entity %player% at %player% run summon lightning_bolt
+        - execute if entity %player% at %player% run summon lightning_bolt
+        - execute if entity %player% at %player% run summon lightning_bolt
+        - execute if entity %player% at %player% run summon lightning_bolt
+        - execute if entity %player% at %player% run summon lightning_bolt
+        - execute if entity %player% at %player% run summon lightning_bolt
+        - execute if entity %player% at %player% run summon lightning_bolt
+      '4':
+        material: paper
+        displayname: '&4&l!!&r&2nichtkaufen&4!!'
+        buy: 10
+        sell: -1
+        lore:
+        - '&4&lNOTE: &r&cnicht bezahlen'
+        - '&cansonsten wirst du für 3 Tage gebannt.'
+        buy-commands:
+        - tempban %player% 3d
+      '5':
+        material: paper
+        displayname: '&8&lworldpermission'
+        buy: 20000
+        sell: -1
+        lore: ''
+        buy-commands:
+        - lp user %player% permission set worldedit.world true
+        - lp user %player% permission set essentials.worlds true
+      '6':
+        material: paper
+        displayname: '&e&lplot.permissions'
+        buy: 25000
+        sell: -1
+        lore:
+        - '&ces sind nicht alle nur die für?'
+        - '&cclaim,buy,buy_confirm,like,visit und merge'
+        buy-commands:
+        - lp user %player% permission set plots.claim true
+        - lp user %player% permission set plots.buy true
+        - lp user %player% permission set plots.confirm true
+        - lp user %player% permission set plots.like true
+        - lp user %player% permission set plots.visit true
+        - lp user &player% permission set plots.merge true
+        - lp user %player% permission set plots.home true
+      '7':
+        material: paper
+        displayname: '&8&lmagicshoppermissions.'
+        buy: 50000
+        sell: -1
+        buy-commands:
+        - lp user %player% permission set economyshopgui.shop.rotatingshop
+      '8':
+        material: paper
+        displayname: '&8&l/fly permission.'
+        buy: 1000000
+        sell: -1
+        buy-commands:
+        - lp user %player% permission settemp essentials.fly true 1d
+      '9':
+        material: paper
+        name: '&8&lmincraft.command.ride permission'
+        lore: ihr könnt alles reiten mit der permission
+        buy: 1000000
+        sell: -1
+        buy-commmands:
+        - lp user %player% permission set minecraft.command.ride true
+      '10':
+        material: paper
+        name: '&8&l/spawn permission'
+        buy: 10000
+        sell: -1
+        buy-commands:
+        - lp user EinfachAdi0811 permission set spawn.use true
+        - lp user EinfachAdi0811 permission set essentials.spawn true
+      '11':
+        material: paper
+        name: '&6&lHeilung'
+        buy: 100000
+        sell: -1
+        buy-commands:
+        - heal %player%
+      '12':
+        material: paper
+        name: '&4&lrandomeinlöse code'
+        buy: 1000
+        sell: -1
+        buy-commands:
+        - msg %player% &6&l Der Code lautet &4&lRandomCode8f6g1njso88xf4y89x
+      '13':
+        material: paper
+        name: '&6&lNBTShield'
+        buy: 12000
+        sell: -1
+        buy-commands:
+        - shopgive NBTItems page1.items.2 %player%
+        stock-limit-player: 1
+        auto-restock-player: 7d
+      '14':
+        material: paper
+        buy: -1
+        sell: -1
+        buy-command:
+        -
