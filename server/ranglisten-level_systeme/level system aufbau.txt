@@ -1,0 +1,157 @@
+{[Omega Level system]}
+
+rank_system: "{currency}$=levelsystem
+(=>{currency}=low=down_rank)
+(=>{currency}=hight=up_rank=reward)
+=>{currency}=level 
+[uprank=reward]
+[down_rank=/eco take %player% {?}]" 
+
+?: ({currency}[eco take %player% {?}])
+(How much {currency} take from player per level):
+         level 1  = 1000
+         level 2  = 2000
+         level 3  = 3000
+         level 4  = 4000
+         level 5  = 5000
+         level 6  = 6000
+         level 7  = 7000
+         level 8  = 8000
+         level 9  = 9000
+         level 10 = 10000
+        ...
+------------------------------------------------------
+______________________________________________________
+------------------------------------------------------
+rank_system starts at: 'player {currency}=100000'
+need {currency} to rank_up multiplier: 1.1
+-level 1 = 110000
+-level 2 = 220000
+-level 3 = 330000
+-level 4 = 440000
+-level 5 = 550000
+-level 6 = 660000
+-level 7 = 770000
+-level 8 = 880000
+-level 9 = 990000
+-level 10= 1100000
+rank_reward (per rank_up[{currency}stats]= [{currency}^level_border])
+{
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+#################################
+#################################
+#################################
+
+#################################
+#################################
+#################################
+###
+###
+###
+###
+###
+###
+#################################
+#################################
+#################################
+###
+###
+###
+###
+###
+###
+#################################
+#################################
+#################################
+
+    ##          ##
+     ##        ##
+      ##      ##
+       ##    ##
+        ##  ##
+         ####
+
+
+#################################
+#################################
+#################################
+###
+###
+###
+###
+###
+#################################
+#################################
+#################################
+###
+###
+###
+###
+###
+#################################
+#################################
+#################################
+
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+#################################
+#################################
+#################################
+}
+Rewards: (random_gifted item when {[{currency}^level_border]}{item=out shop}[stong enchanted item 25 percent][normal item 50 percent][opitem 1,5 percent][trimt armor 13,5 percent][normalvoll enchanted 10 percent])
+(when[item]=[opitem]{gifted command}={eco give %player% 1000000-1210000})
+(when[item]=[normalitem]{gifted command}={shopgive %player% Blitzte ?!?,clear %player%})
+[when player have [10.000.000.000{currency}]%player% give title the fastest and best player at the server]
+[when{player_level}21821{%player% title give overleveled]]
+{%redeem&Code&player%[reward=unknown{(notice=)it´s a bad code ?}]}
+{</|\>}
+{code=on=>dis|cord<and>github<}
+{(notice=)it can be a bad code.}
+{(do not try it out it can be Dangerous)}
+{(#t c#n b# # c#d# wh# w#ll #tt#ck y##)}
+{(# h#v# r#d##md th# c#d# #nd #t w#s n#t g##d)}
+{(y## d#n´t b#l##v# m#, try #t y##rs#lf)}
+
+[last notice:{y## f#nd #t #n # p#ct#r# b#t y## m#st l##k f#r #t}]
+{r#m#mb#r my l#st n#te #n d#sc#rd #nd g#th#b y## h#v# t# l##k wh#n y## w#nt t# try #t}
+{b#t d#n´t s#y # d#d#n´t w#rn y##}
+{...}
+[a bad creature had killed him and destroyed the pictures=was this the code? it´s strange ...]
+[...you should get to the bottom of it]
+{the code:[x6x6x6x]}
+[...but be careful]
+[difficulty: unknown]
+[creature: unknown]

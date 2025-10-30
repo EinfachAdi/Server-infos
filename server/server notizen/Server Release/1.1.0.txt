@@ -1,0 +1,24 @@
+- neue shop unterteilungen und items z.b Opitems
+- neue custom items die man über give aways minispiele gewinnen oder sie sich kaufen kann unter der kategorie: customitem
+- änderung der rechte man kann nun ohne jeglichen fortschritt in die plot welt plots claimen ...
+- es gibt neue rechte die aber noch nicht fertig sind die rechte müssen noch frertig gemacht werden (moderator,Supporter)
+- bank system hinzugekommen
+- jobs hinzugekommen
+- battle pass hinzugekommen
+- mcmmo hinzugekommen
+- relisticseasaons hinzugekommen
+- neuer kaufbarer geld einlöse code hinzugekommen
+- trimt armor hat teilweise preise und ist hinzugekommen
+________________________________________________________________________________________________________________________________________________________________________________________________
+
+was wir bis zum nächstem update vorhaben
+- shop sortieren
+- job belohnungen nerfen (zu op)
+- battle pass fixen (fehler wurde entdeckt)
+- trimt armor preise und sammlung vervollständigen
+- verschiedene stärke stufen von den custom items
+- neues level system/rang_system
+- rechte vervollständigen
+- relisticseasaons config bearbeiten damit das plugin funktioniert
+- neue commands in den shop stellen
+- allgemein den shop üerarbeiten

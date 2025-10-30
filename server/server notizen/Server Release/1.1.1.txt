@@ -1,0 +1,36 @@
+- shop z_everthingelse wurde entfernt
+- shop miscaullneous wurde entfernt
+- shop mob_heads wurde hinzugefügt
+- shop special items wurde hinzugefügt
+- custom items wurdeb verbessert/verschlechtert
+- jobs überarbeitet
+- neue shop commands
+- neuer secret code 
+- neuer present code
+- mehr custom item versionen um z.b. spitzthacke aufzuleveln
+- die wichtigsten rechte commands
+- ranglisten system angefertigt
+_____________________________________________________________________
+was wir bis zum nächstem update auf jedenfall schaffen wollen (1.1.2)
+_____________________________________________________________________
+- Erz shop fertig
+- mehr commands im command shop
+- rechte von moderator und supporter fertig machen
+_____________________________________________________________________
+standart commands:
+_____________________________________________________________________
+/servershop
+/SS 
+/OmegaShop
+/OS 
+/plot home
+/plot claim
+/plot merge
+/plot visit
+/ec (enderchest)
+/craft
+/spawn (plotwelt spawn)
+/espawn (oberwelt spawn)
+/afk
+/bank
+/world ([welt]z.b. OmegaSMP)
