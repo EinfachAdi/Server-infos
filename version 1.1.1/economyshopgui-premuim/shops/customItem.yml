@@ -1,0 +1,38 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: paper
+        buy: 500000
+        sell: -1
+        name: '&6&lBasic Obsidian Sword'
+        buy-commands:
+        - oraxen give %player% obsidian_sword_v0
+      '2':
+        material: paper
+        buy: 5000000
+        sell: -1
+        name: '&6&lGood Obsidian Sword'
+        buy-commands:
+        - oraxen give %player% obsidian_sword_v1
+      '3':
+        material: paper
+        buy: 25000000
+        sell: -1
+        name: '&6&lStrong Obsidian Sword'
+        buy-commands:
+        - oraxen give %player% obsidian_sword_v2
+      '4':
+        material: paper
+        buy: 100000000
+        sell: -1
+        name: '&6&lGod Obsidian Sword'
+        buy-commands:
+        - oraxen give %player% obsidian_sword_v3
+      '5':
+        material: paper
+        buy: 1
+        sell: -1
+        name: '&4&lmore comming soon'
+        buy-commands:
+        - msg %player% mehr items kommen bald

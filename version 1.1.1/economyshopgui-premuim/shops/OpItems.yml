@@ -1,0 +1,142 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: netherite_sword
+        buy: -1
+        sell: -1
+        enchantments:
+        - sharpness:255
+        - looting:50
+        - fire_aspect:255
+        - wind_burst:15
+        - knockback:10
+        NBTData: '{Unbreakable:1b}'
+        components: '{"minecraft:unbreakable":{}}'
+      '2':
+        material: netherite_pickaxe
+        buy: -1
+        sell: -1
+        enchantments:
+        - efficiency:255
+        - fortune:50
+        NBTData: '{Unbreakable:1b}'
+        components: '{"minecraft:unbreakable":{}}'
+      '3':
+        material: netherite_axe
+        buy: -1
+        sell: -1
+        enchantments:
+        - sharpness:255
+        - looting:50
+        - fire_aspect:255
+        - wind_burst:15
+        - knockback:10
+        - efficiency:255
+        - fortune:50
+        NBTData: '{Unbreakable:1b}'
+        components: '{"minecraft:unbreakable":{}}'
+      '4':
+        material: netherite_SHOVEL
+        buy: -1
+        sell: -1
+        enchantments:
+        - efficiency:255
+        - SILK_TOUCH:50
+        NBTData: '{Unbreakable:1b}'
+        components: '{"minecraft:unbreakable":{}}'
+      '5':
+        material: netherite_hoe
+        buy: -1
+        sell: -1
+        enchantments:
+        - efficiency:255
+        - fortune:50
+        NBTData: '{Unbreakable:1b}'
+        components: '{"minecraft:unbreakable":{}}'
+      '6':
+        material: netherite_helmet
+        buy: -1
+        sell: -1
+        enchantments:
+        - fire_protection:255
+        - protection:255
+        - projectile_protection:255
+        - thorns:255
+        NBTData: '{Unbreakable:1b}'
+        components: '{"minecraft:unbreakable":{}}'
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: silence     # Beispielmuster – siehe Liste unten
+        lore:
+          - "&7Dies ist eine besondere Rüstung"
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+      '7':
+        material: netherite_chestplate
+        buy: -1
+        sell: -1
+        enchantments:
+        - fire_protection:255
+        - protection:255
+        - projectile_protection:255
+        - thorns:255
+        NBTData: '{Unbreakable:1b}'
+        components: '{"minecraft:unbreakable":{}}'
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: silence     # Beispielmuster – siehe Liste unten
+        lore:
+          - "&7Dies ist eine besondere Rüstung"
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+      '8':
+        material: netherite_leggings
+        buy: -1
+        sell: -1
+        enchantments:
+        - fire_protection:255
+        - protection:255
+        - projectile_protection:255
+        - thorns:255
+        NBTData: '{Unbreakable:1b}'
+        components: '{"minecraft:unbreakable":{}}'
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: silence     # Beispielmuster – siehe Liste unten
+        lore:
+          - "&7Dies ist eine besondere Rüstung"
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+      '9':
+        material: netherite_boots
+        buy: -1
+        sell: -1
+        enchantments:
+        - fire_protection:255
+        - protection:255
+        - projectile_protection:255
+        - thorns:255
+        NBTData: '{Unbreakable:1b}'
+        components: '{"minecraft:unbreakable":{}}'
+        armor-trim:
+          type: GOLD        # oder z. B. NETHERITE, DIAMOND etc.
+          pattern: silence     # Beispielmuster – siehe Liste unten
+        lore:
+          - "&7Dies ist eine besondere Rüstung"
+        item-flags:
+          - 'HIDE_ENCHANTS'
+          - 'HIDE_UNBREAKABLE'
+      '10':
+        material: mace
+        buy: -1
+        sell: -1
+        enchantments:
+        - fire_aspect:255
+        - density:255
+        - wind_burst:15
+        NBTData: '{Unbreakable:1b}'
+        components: '{"minecraft:unbreakable":{}}'
