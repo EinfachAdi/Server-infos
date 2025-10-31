@@ -1,1 +1,5 @@
-- erz shop
+
+_________________________________________________
+was wir bis zum nächsten update bearbeiten wollen
+-------------------------------------------------
+- command shop bearbeiten
