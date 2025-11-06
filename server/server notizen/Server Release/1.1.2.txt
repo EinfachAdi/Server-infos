@@ -1,5 +1,8 @@
-
-_________________________________________________
-was wir bis zum nächsten update bearbeiten wollen
--------------------------------------------------
-- command shop bearbeiten
+- erz shop entfernt
+- command shop abgeändert und erweitert
+________________________________________
+was wir für das nächste update vor haben
+________________________________________
+- command shop weiter machen
+- neue shop
+- custom items erweitern
