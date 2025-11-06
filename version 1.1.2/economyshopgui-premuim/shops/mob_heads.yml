@@ -1,0 +1,30 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: creeper_head
+        buy: 100000
+        sell: 50000
+        slot: 1
+      '2':
+        material: zombie_head
+        buy: 50000
+        sell: 25000
+        slot: 2
+      '3':
+        material: piglin_head
+        buy: 150000
+        sell: 75000
+        slot: 3
+      '4':
+        material: dragon_head
+        buy: 300000
+        sell: 150000
+        slot: 4
+      '5':
+        material: player_head
+        buy: 1
+        sell: -1
+        slot: 5
+        buy-commands:
+        - skull %player%
