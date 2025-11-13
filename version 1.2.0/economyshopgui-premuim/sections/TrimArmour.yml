@@ -1,0 +1,14 @@
+enable: true
+slot: 3
+title: ''
+hidden: false
+sub-section: false
+display-item: false
+fill-item:
+  material: AIR
+nav-bar:
+  mode: INHERIT
+item:
+  material: silence_armor_trim_smithing_template
+  displayname: '&2&lTrimt_Armour'
+  name: '&2&lTrimt_Armour'

@@ -1,0 +1,14 @@
+enable: true
+slot: 8
+title: ''
+hidden: false
+sub-section: false
+display-item: false
+fill-item:
+  material: AIR
+nav-bar:
+  mode: INHERIT
+item:
+  material: CREEPER_HEAD
+  displayname: '&2&lmob heads'
+  name: '&2&lmob heads'

@@ -1,0 +1,107 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: paper
+        buy: 500000
+        sell: -1
+        name: '&6&lBasic Obsidian Sword'
+        buy-commands:
+        - oraxen give %player% obsidian_sword_v1
+        slot: 1
+      '2':
+        material: paper
+        buy: 5000000
+        sell: -1
+        name: '&6&lGood Obsidian Sword'
+        buy-commands:
+        - oraxen give %player% obsidian_sword_v2
+        slot: 2
+      '3':
+        material: paper
+        buy: 25000000
+        sell: -1
+        name: '&6&lStrong Obsidian Sword'
+        buy-commands:
+        - oraxen give %player% obsidian_sword_v3
+        slot: 3
+      '4':
+        material: paper
+        buy: 100000000
+        sell: -1
+        name: '&6&lGod Obsidian Sword'
+        buy-commands:
+        - oraxen give %player% obsidian_sword_v4
+        slot: 4
+      '5':
+        material: paper
+        buy: 500000
+        sell: -1
+        name: '&6&lv1 obsidian pickaxe'
+        buy-commands:
+        - oraxen give %player% obsidian_pickaxe_v1
+        slot: 10
+      '6':
+        material: paper
+        buy: 500000
+        sell: -1
+        name: '&6&lv2 obsidian pickaxe'
+        buy-commands:
+        - oraxen give %player% obsidian_pickaxe_v2
+        slot: 11
+      '7':
+        material: paper
+        buy: 500000
+        sell: -1
+        name: '&6&lv3 obsidian pickaxe'
+        buy-commands:
+        - oraxen give %player% obsidian_pickaxe_v3
+        slot: 12
+      '8':
+        material: paper
+        buy: 500000
+        sell: -1
+        name: '&6&lv4 obsidian pickaxe'
+        buy-commands:
+        - oraxen give %player% obsidian_pickaxe_v4
+        slot: 13
+      '9':
+        material: paper
+        buy: 50000000
+        sell: -1
+        name: '&6&l1u obsidian pickaxe'
+        buy-commands:
+        - oraxen give %player% obsidian_pickaxe_1u
+        slot: 19
+      '10':
+        material: paper
+        buy: 500000000
+        sell: -1
+        name: '&6&l2u obsidian pickaxe'
+        buy-commands:
+        - oraxen give %player% obsidian_pickaxe_2u
+        slot: 20
+      '11':
+        material: paper
+        buy: 2500000000
+        sell: -1
+        name: '&6&l3u obsidian pickaxe'
+        buy-commands:
+        - oraxen give %player% obsidian_pickaxe_3u
+        slot: 21
+      '12':
+        material: paper
+        buy: 50000000000
+        sell: -1
+        name: '&6&l4u obsidian pickaxe'
+        buy-commands:
+        - oraxen give %player% obsidian_pickaxe_4u
+        slot: 22
+      '45':
+        material: paper
+        buy: 1
+        sell: -1
+        name: '&4&lmore comming soon'
+        buy-commands:
+        - msg %player% mehr items kommen bald!
+        slot: 45

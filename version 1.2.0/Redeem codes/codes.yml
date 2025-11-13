@@ -1,0 +1,93 @@
+# Example structure for creating a redemption code.
+# This list contains all the codes and their associated information.
+Codes:
+  EinfachAdi:
+    enabled: true
+    permisson:
+      required: false
+      list: []
+    redeem-limit:
+      Type: PLAYER
+      Count: 1
+      Cooldown: 0
+    Playerlist:
+      Used: []
+      Blacklist:
+        Type: ENABLED
+        List: []
+    rewards:
+    - eco give %player% 50000
+  OmegaSMPStarterSetup:
+    enabled: true
+    permisson:
+      required: false
+      list: []
+    redeem-limit:
+      Type: PLAYER
+      Count: 1
+      Cooldown: 0
+    Playerlist:
+      Used: []
+      Blacklist:
+        Type: ENABLED
+        List: []
+    rewards:
+    - eco give %player% 5000
+    - give %player% diamond_block %random-1-5%
+  OmegaSMPSnakePremiumMoneySetup:
+    enabled: true
+    permisson:
+      required: false
+      list: []
+    redeem-limit:
+      Type: PLAYER
+      Count: 1
+      Cooldown: 60
+    Playerlist:
+      Used: []
+      Blacklist:
+        Type: REVERSED
+        List: []
+    rewards:
+    - eco give mauncraft 1000
+    - give mauncraft beacon %random-1-2%
+  RandomCode8f6g1njso88xf4y89x:
+    enabled: true 
+    permisson:
+      required: false
+      list: []
+    redeem-limit:
+      Type: PLAYER
+      Count: 1
+      Cooldown: 0
+    Playerlist:
+      Used: []
+      Blacklist:
+        Type: ENABLED
+        List: []
+    rewards: 
+    - give %player% diamond_block %random-1-64%
+    - give %player% emerald_block %random-1-64%
+    - give %player% netherite_block %random-1-64%
+    - give %player% gold_block %random-1-64%
+    - give %player% netherite_sword %random-1-7%
+  Github.debug.discord.present&8685&:
+    enabled: true
+    permisson:
+      required: false
+      list: []
+    redeem-limit:
+      Type: PLAYER
+      Count: 1
+      Cooldown: 0
+    Playerlist:
+      Used: []
+      Blacklist:
+        Type: ENABLED
+        List: []
+    rewards:
+    - shopgive TrimArmour page1.items.4
+    - shopgive TrimArmour page1.items.3
+    - shopgive TrimArmour page1.items.2
+    - shopgive TrimArmour page1.items.1
+    - eco give %player% 100000
