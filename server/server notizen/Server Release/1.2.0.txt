@@ -1,3 +1,15 @@
+1.2.0 (größtes update bisher weil auch evt noch mehr gemacht wird und wir uns hauptsächlich darauf fokussieren)
+[durch server probleme noch net größtes update bisher]
+- fehler behebungen
+- server wieder hergestellt
+- ore shop wieder entfernt
 - command shop bearbeitet
-- customitem shop bearbeitet 
 - custom items bearbeitet
+- special shop bearbeitet
+______________________________________________________________________
+was wir vorhaben bes zu dem nächsten update
+- shop (allgemein) bearbeiten
+- rechte endlich fertig machen
+----------------------------------------------------------------------
+was wir absofort machen werden täglich server restarten und danach 
+logs überprüfen um fehler zu vermeiden und zu beheben
