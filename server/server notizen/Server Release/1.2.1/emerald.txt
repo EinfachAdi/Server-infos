@@ -1,0 +1,40 @@
+{"Emerald vor-nachteile"}:
+{"schildi emerald"}:
+    + höhere geschwindikeit im wasser
+    + unterwasseratmung 
+    + wasser particle
+    - niedrige gechwindicket am land
+command für emerald:
+give @p emerald[minecraft:custom_name={text:'Schildi´s Emerald',color:'blue','bold':true}]
+command für effect:
+execute if items entity @p weapon.offhand emerald[minecraft:custom_name={text:'Schildi´s Emerald',color:'blue','bold':true}] run effect give @p minecraft:dolphins_grace 1 1 true
+execute if items entity @p weapon.offhand emerald[minecraft:custom_name={text:'Schildi´s Emerald',color:'blue','bold':true}] run effect give @p minecraft:water_breathing 1 1 true
+execute if items entity @p weapon.offhand emerald[minecraft:custom_name={text:'Schildi´s Emerald',color:'blue','bold':true}] run effect give @p minecraft:slowness 1 1 true
+command für particle:
+execute as @p at @p anchored feet run particle minecraft:falling_water ~ ~0.1 ~ 0.1 0 0.1 0.00001 5 force
+__________________________________________
+{"Fire Emerald"}
+    + feuer attacke
+    + fire resistance
+    + besondere particle
+    - schaden im wasser [wenn ich es schaffe]
+command für emerald:
+give @p emerald[minecraft:enchantments={fire_aspect:255},minecraft:custom_name={text:'Fire Emerald','bold':true,color:'green'}]
+Command für effect:
+execute if items entity @p weapon.mainhand emerald[minecraft:enchantments={fire_aspect:255},minecraft:custom_name={text:'Fire Emerald','bold':true,color:'green'}] at @p run effect give @p minecraft:fire_resistance 1 1 true
+__________________________________________
+{"Emerald of Protection"}
+    + 64 emeralds mit deathprotection
+    + regeertaion stufe 2
+    + resistance stufe 5
+    - slowness stufe 3
+    - schwwäche Stufe 2
+command für emerald:
+give @p emerald[minecraft:death_protection={},minecraft:max_stack_size=64] 64
+command für effect:
+execute if items entity @p weapon.offhand emerald[minecraft:death_protection={},minecraft:max_stack_size=64] at @p run effect give @p minecraft:resistance 1 5 true
+execute if items entity @p weapon.offhand emerald[minecraft:death_protection={},minecraft:max_stack_size=64] at @p run effect give @p minecraft:regeneration 1 2 true
+execute if items entity @p weapon.offhand emerald[minecraft:death_protection={},minecraft:max_stack_size=64] at @p run effect give @p minecraft:slowness 1 3 true
+execute if items entity @p weapon.offhand emerald[minecraft:death_protection={},minecraft:max_stack_size=64] at @p run effect give @p minecraft:weakness 1 2 true
+command für particle:
+execute as @p at @p anchored feet run particle flame ~ ~0.1 ~ 0.1 0 0.1 0.00001 5 force

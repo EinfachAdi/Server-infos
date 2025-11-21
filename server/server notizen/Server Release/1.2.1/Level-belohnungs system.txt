@@ -1,0 +1,31 @@
+<level>={Rang[Eilösung wird persönlich beim Owner eingefordert]}
+Rang1:[cm_swim_in_meter]
+    -{belohnung wird freigeschaltet durch schwimmen}
+    - belohnung:
+        [Schildi Emerald]
+        - level1-5:
+            level:1=1500 {!Meter!}=schildkrötenhelm
+            level:2=3800 {!Meter!}=geld 15000
+            level:3=6300 {!Meter!}=unterwasser atmung für 1h
+            level:4=8700 {!Meter!}= doephinsgrace für 1h
+            level:5/max  {!Meter!}= Schildkröten Emerald vorteile in #emeralds# erlärt und Nachteile
+Rang2:[blaze_kills]
+    -{belohnung wird freigeschaltet durch blaze killen}
+    - belohnung:
+        [Fire_Emerald]
+        - level1-5
+            level:1=28 =ledder helm {fireProt[unzerstörbar]}
+            level:2=45 =ledder Chestblate {fireProt[unzerstörbar]}
+            level:3=84 =ledder hose {fireProt[Unzerstörbar]}
+            level:4=129=ledder boots {fireProt[unzerstörbar]}
+            level:5=381= Fire Emerald vorteile in #emeralds# erlärt und Nachteile
+Rang3:[player_kills]
+    -{belohnung wird freigeschaltet durch player killen}
+    - belohnung:
+        [Emerald_of_Protection]
+        - level1-5
+            level:1=13=iron armor [unzerstörbar]
+            level:2=27=diamond armor [unzerstörbar]
+            level:3=51=diamond/netherite armor [unzerstörbar]
+            level:4=85=netherite armor [unzerstörbar]
+            level:5=107= Emerald of Protection vorteile in #emeralds# erlärt und Nachteile
