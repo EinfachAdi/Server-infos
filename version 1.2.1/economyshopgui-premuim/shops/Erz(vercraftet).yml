@@ -1,0 +1,315 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: Iron_Ingot
+        buy: 5.52
+        sell: 1.88
+        slot: 1
+      '2':
+        material: Iron_nugget
+        buy: 0.61
+        sell: -1
+        slot: 2
+      '3':
+        material: Iron_Sword
+        buy: 11
+        sell: -1
+        slot: 3
+      '4':
+        material: Iron_shovel
+        buy: 6
+        sell: -1
+        slot: 4
+      '5':
+        material: Iron_pickaxe
+        buy: 17
+        sell: -1
+        slot: 5
+      '6':
+        material: Iron_axe
+        buy: 17
+        sell: -1
+        slot: 6
+      '7':
+        material: Iron_hoe
+        buy: 11
+        sell: -1
+        slot: 7
+      '8':
+        material: Iron_boots
+        buy: 27.5
+        sell: -1
+        slot: 8
+      '9':
+        material: Iron_leggings
+        buy: 38.5
+        sell: -1
+        slot: 9
+      '10':
+        material: Iron_chestplate
+        buy: 44
+        sell: -1
+        slot: 10
+      '11':
+        material: Iron_helmet
+        buy: 27.5
+        sell: -1
+        slot: 11
+      '12':
+        material: Iron_block
+        buy: 49.5
+        sell: -1
+        slot: 12
+      '13':
+        material: cauldron
+        buy: 38.5
+        sell: -1
+        slot: 13
+      '14':
+        material: hopper
+        buy: 29
+        sell: -1
+        slot: 14
+      '15':
+        material: Iron_bars
+        buy: 2
+        sell: -1
+        slot: 15
+      '16':
+        material: minecart
+        buy: 27.5
+        sell: -1
+        slot: 16
+      '17':
+        material: rail
+        buy: 35
+        sell: -1
+        slot: 17
+      '18':
+        material: chain
+        buy: 6
+        sell: -1
+        slot: 18
+      '19':
+        material: heavy_weighted_pressure_plate
+        buy: 10
+        sell: -1
+        slot: 19
+      '20':
+        material: iron_door
+        buy: 35
+        sell: -1
+        slot: 20
+      '21':
+        material: iron_trapdoor
+        buy: 22
+        sell: -1
+        slot: 21
+      '22':
+        material: water_bucket
+        buy: 16.5
+        sell: -1
+        slot: 22
+      '23':
+        material: shield
+        buy: 7
+        sell: -1
+        slot: 23
+      '24':
+        material: anvil
+        buy: 200
+        sell: -1
+  page2:
+    items:
+      '1':
+        material: diamond_helmet
+        buy: 251
+        sell: -1
+        slot: 1
+      '2':
+        material: diamond_chestplate
+        buy:
+        sell: -1
+        slot: 2
+      '3':
+        material: diamond_leggings
+        buy:
+        sell: -1
+        slot: 3
+      '4':
+        material: diamond_boots
+        buy:
+        sell: -1
+        slot: 4
+      '5':
+        material: diamond_sword
+        buy: 104
+        sell: -1
+        slot: 5
+      '6':
+        material: diamond_axe
+        buy: 156
+        sell: -1
+        slot: 6
+      '7':
+        material: diamond_pickaxe
+        buy: 156
+        sell: -1
+        slot: 7
+      '8':
+        material: diamond_hoe
+        buy: 105
+        sell: -1
+        slot: 8
+      '9':
+        material: diamond_shovel
+        buy: 55
+        sell: -1
+        slot: 9
+      '10':
+        material: jukebox
+        buy: 60
+        sell: -1
+        slot: 10
+      '11':
+        material: diamond_block
+        buy: 450
+        sell: -1
+        slot: 11
+      '12':
+        material: diamond
+        buy: 52.3
+        sell: -1
+        slot: 12
+      '13':
+        material: enchanting_table
+        buy: 500
+        sell: -1
+        slot: 13
+  page3:
+    items:
+      '1':
+        material: coal
+        buy: 2
+        sell: -1
+        slot: 1
+      '2':
+        material: charcoal
+        buy: 3
+        sell: -1
+        slot: 2
+      '3':
+        material: coal_block
+        buy: 18
+        sell: -1
+        slot: 3
+      '4':
+        material: campfire
+        buy: 4
+        sell: -1
+        slot: 4
+      '5':
+        material: soul_campfire
+        buy: 50
+        sell: -1
+        slot: 5
+  page3:
+    items:
+      '1':
+        material: emerald
+        buy: 74
+        sell: -1
+        slot: 1
+      '2':
+        material: emerald_block
+        buy: 653
+        sell: -1
+        slot: 2
+  page4:
+    items:
+      '1':
+        material: gold_ingot
+        buy: 40
+        sell: -1
+        slot: 1
+      '2':
+        material: gold_block
+        buy: 360
+        sell: -1
+        slot: 2
+      '3':
+        material: golden_helmet
+        buy: 200
+        sell: -1
+        slot: 10
+      '4':
+        material: golden_leggings
+        buy: 280
+        sell: -1
+        slot: 11
+      '5':
+        material: golden_chestplate
+        buy: 320
+        sell: -1
+        slot: 12
+      '6':
+        material: golden_boots
+        buy: 160
+        sell: -1
+        slot: 13
+      '7':
+        material: golden_sword
+        buy: 82
+        sell: -1
+        slot: 3
+      '8':
+        material: golden_axe
+        buy: 122
+        sell: -1
+        slot: 4
+      '9':
+        material: golden_pickaxe
+        buy: 122
+        sell: -1
+        slot: 5
+      '10':
+        material: golden_hoe
+        buy: 82
+        sell: -1
+        slot: 6
+      '11':
+        material: golden_shovel
+        buy: 42
+        sell: -1
+        slot: 7
+      '12':
+        material: golden_apple
+        buy: 330
+        sell: -1
+        slot: 8
+      '13':
+        material: enchanted_golden_apple
+        buy: 5000
+        sell: -1
+        slot: 9
+      '14': 
+        material: gold_nugget
+        buy: 4
+        sell: -1
+        slot: 14
+      '15': 
+        material: clock 
+        buy: 100
+        sell: -1
+        slot: 15
+      '16': 
+        material: golden_carrot
+        buy: 40
+        sell: -1
+        slot: 16
+      '17':
+        material: glistering_melon_slice
+        buy: 40
+        sell: -1
+        slot: 17

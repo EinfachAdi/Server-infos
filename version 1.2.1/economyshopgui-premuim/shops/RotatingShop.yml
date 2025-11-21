@@ -1,0 +1,161 @@
+# <--- https://wiki.gpplugins.com/economyshopgui/file-configuration/shops.yml#display-chance --->
+# Unlike regular shops, the items of a rotating shops are configured as below
+
+# Since this shop has 24 items in total, but only 6 display slots,
+# every item will have an 4.1(rounded down) percent chance to be displayed(unless specified differently)
+items:
+  Notch_Apple:
+    material: ENCHANTED_GOLDEN_APPLE
+    buy: 5000
+    sell: -1
+  Golden_Apple:
+    material: GOLDEN_APPLE
+    buy: 275.1
+    sell: 68.78
+  Stew_1:
+    material: SUSPICIOUS_STEW
+    lore:
+    - '&cEvery time a surprise what the ingredients of Grandma are!'
+    buy: 50
+    sell: -1
+    stew-effect: REGENERATION
+  Stew_2:
+    material: SUSPICIOUS_STEW
+    lore:
+    - '&cEvery time a surprise what the ingredients of Grandma are!'
+    buy: 50
+    sell: -1
+    stew-effect: JUMP_BOOST
+  Stew_3:
+    material: SUSPICIOUS_STEW
+    lore:
+    - '&cEvery time a surprise what the ingredients of Grandma are!'
+    buy: 50
+    sell: -1
+    stew-effect: POISON
+  SILK_TOUCH:
+    material: ENCHANTED_BOOK
+    buy: 200
+    sell: 50
+    enchantments:
+    - SILK_TOUCH:1
+  SHARPNESS:
+    material: ENCHANTED_BOOK
+    buy: 972.41
+    sell: 243.11
+    enchantments:
+    - DAMAGE_ALL:5
+  EFFICIENCY:
+    material: ENCHANTED_BOOK
+    buy: 972.41
+    sell: 243.11
+    enchantments:
+    - DIG_SPEED:5
+  UNBREAKING:
+    material: ENCHANTED_BOOK
+    buy: 441
+    sell: 110.25
+    enchantments:
+    - DURABILITY:3
+  FOOD_1:
+    material: COOKED_BEEF
+    buy: 120
+    sell: 22
+    stack-size: 16
+  FOOD_2:
+    material: CHICKEN
+    buy: 56
+    sell: 9.75
+    stack-size: 8
+  CHEAP_STONE:
+    material: STONE
+    buy: 10.25
+    sell: 3.5
+    max-buy: -1
+    max-sell: -1
+    stack-size: 16
+  CHEAP_SAND:
+    material: SAND
+    buy: 44
+    sell: 13.8
+    max-buy: -1
+    max-sell: -1
+    stack-size: 8
+  SPAWNER_1:
+    material: SPAWNER
+    spawnertype: COW
+    name: '&c[&bCow Spawner&c]'
+    display-lore:
+    - '&cThis spawner is 25% off, grab your change now!'
+    buy: 75000
+  SPAWNER_2:
+    material: SPAWNER
+    spawnertype: ZOMBIE
+    name: '&c[&bZombie Spawner&c]'
+    display-lore:
+    - '&cThis spawner is 10% off, grab your change now!'
+    buy: 108000
+  SPAWNER_3:
+    material: SPAWNER
+    spawnertype: IRON_GOLEM
+    name: '&c[&bIron Golem Spawner&c]'
+    display-lore:
+    - '&cThis spawner is 12.5% off, grab your change now!'
+    buy: 875000
+  BEST_INSTRUMENT:
+    material: GOAT_HORN
+    buy: 100
+    instrument: DREAM
+  BEST_INSTRUMENT2:
+    material: GOAT_HORN
+    buy: 100
+    instrument: SEEK
+  ARMOR_TRIM1:
+    material: NETHERITE_CHESTPLATE
+    buy: 750
+    armor-trim:
+      type: GOLD
+      pattern: WARD
+  ARMOR_TRIM2:
+    material: IRON_CHESTPLATE
+    buy: 250
+    armor-trim:
+      type: DIAMOND
+      pattern: EYE
+  FIREWORK_1:
+    material: FIREWORK
+    buy: 500
+    duration: 2
+    colors:
+    - cyan
+    - purple
+    fade-colors:
+    - black
+    - gray
+    flicker: true
+    trail: true
+    shape: BURST
+  FIREWORK_2:
+    material: FIREWORK
+    buy: 500
+    duration: 3
+    colors:
+    - Magenta
+    - Light_Blue
+    - Pink
+    - Gray
+    - Purple
+    - Blue
+    - Red
+    fade-colors:
+    - black
+    - gray
+    shape: STAR
+  NOTCH_HEAD:
+    material: player_head
+    skullowner: notch
+    buy: 500
+  COLORED_LEATHER:
+    material: LEATHER_CHESTPLATE
+    armorcolor: '#0033FF'
+    buy: 75

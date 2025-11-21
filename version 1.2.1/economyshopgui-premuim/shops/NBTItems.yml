@@ -1,0 +1,36 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: POTION
+        displayname: '&d&lPotion with the effects from a &6God Apple'
+        name: '&d&lGod potion'
+        buy: 9165
+        sell: 2280
+        NBTData: '{CustomPotionEffects:[{Id:10,Amplifier:2,Duration:400},{Id:22,Amplifier:4,Duration:2400},{Id:11,Amplifier:1,Duration:6000},{Id:12,Amplifier:1,Duration:6000}]}'
+        components: '{"minecraft:potion_contents":{custom_effects:[{amplifier:2b,duration:400,id:"minecraft:regeneration",show_icon:1b},{amplifier:4b,duration:2400,id:"minecraft:absorption",show_icon:1b},{amplifier:1b,duration:6000,id:"minecraft:resistance",show_icon:1b},{amplifier:1b,duration:6000,id:"minecraft:fire_resistance",show_icon:1b}]}}'
+      '2':
+        material: SHIELD
+        name: '&7&lColored shield'
+        buy: 32
+        sell: -1
+        enchantments:
+        - UNBREAKING:3
+        lore:
+        - '&fThis shield has a base color'
+        - '&fof black and a red gradient'
+        - '&fwith in the middle a'
+        - '&flight gray creeper charge.'
+        NBTData: '{BlockEntityTag:{Base:15,Patterns:[{Pattern:"gra",Color:14},{Pattern:"cre",Color:7}]}}'
+        components: '{"minecraft:base_color":"black","minecraft:banner_patterns":[{color:"orange",pattern:"minecraft:gradient"},{color:"light_gray",pattern:"minecraft:creeper"}],"minecraft:block_entity_data":{components:{"minecraft:base_color":"black"},x:0,y:0,z:0,id:"minecraft:banner"}}'
+      '3':
+        material: NETHERITE_PICKAXE
+        name: '&6&lUnbreakable Netherite pickaxe'
+        lore:
+        - '&aThis pickaxe also has efficiency 15.'
+        buy: 1850000
+        sell: 999000
+        enchantments:
+        - EFFICIENCY:15
+        NBTData: '{Unbreakable:1b}'
+        components: '{"minecraft:unbreakable":{}}'
